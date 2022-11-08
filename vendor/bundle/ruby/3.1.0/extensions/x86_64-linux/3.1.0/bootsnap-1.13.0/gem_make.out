@@ -1,0 +1,15 @@
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221108-11732-glz6gk sitelibdir\=./.gem.20221108-11732-glz6gk clean
+
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221108-11732-glz6gk sitelibdir\=./.gem.20221108-11732-glz6gk
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20221108-11732-glz6gk sitelibdir\=./.gem.20221108-11732-glz6gk install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20221108-11732-glz6gk/bootsnap

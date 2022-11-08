@@ -1,0 +1,15 @@
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221108-11732-u406er sitelibdir\=./.gem.20221108-11732-u406er clean
+
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221108-11732-u406er sitelibdir\=./.gem.20221108-11732-u406er
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/sindeas/twitter2/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221108-11732-u406er sitelibdir\=./.gem.20221108-11732-u406er install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20221108-11732-u406er
